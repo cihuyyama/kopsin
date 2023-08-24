@@ -58,7 +58,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<li><a  class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"  aria-expanded="false">Login</a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #a2befd;">
                                     <a class="dropdown-item" href="adminlogin"style="font-size: 14px; padding: 0 5px ">Login as Admin</a>
-                                    <a class="dropdown-item" href="customerlogin"style="font-size: 14px;padding: 0 5px ">Login as Cashier</a>     
+                                    <a class="dropdown-item" href="customerlogin"style="font-size: 14px;padding: 0 5px ">Login as Customer</a>     
                                 </div>
                             </li>
 							

@@ -152,7 +152,7 @@
 								</div>
 								<div class="address-right">
 									<h6>Phone Number</h6>
-									<p>+88029 832 470</p>
+									<p>+62 832 4705 3455</p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -162,7 +162,7 @@
 								</div>
 								<div class="address-right">
 									<h6>Email Address</h6>
-									<p>Email :<a href="#"> info@papint.asia</a></p>
+									<p>Email :<a href="#"> kopsin@umy.asia</a></p>
 								</div>
 								<div class="clearfix"> </div>
 							</div>
@@ -172,7 +172,7 @@
 								</div>
 								<div class="address-right">
 									<h6>Location</h6>
-									<p>H-365, R-28, Mohakhali DOHS, BD.
+									<p>Yogyakarta, Bantul
 
 									</p>
 								</div>
@@ -187,7 +187,7 @@
 			<div class="clearfix"></div>
 
             <div class="flex flex-1 mx-auto">© Design by :  </div>
-            <p class="copy-right-w3ls-agileits"> All rights reserved | Design by <a href="https://github.com/Meem09-jann" target=" _blank" style="font-style: oblique;">Jannat Meem</a></p>
+            <p class="copy-right-w3ls-agileits"> All rights reserved </p>
 		</div>
 	</div>
 	</div>

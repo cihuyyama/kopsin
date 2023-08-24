@@ -48,9 +48,9 @@
                 <input type="submit" class="btn btn-primary" name="submit" value="login">
                                 <div class="btn btn-info"> <a href ="home"   class="text-white">Home</a></div>
                 <!-- <button class="px-4 py-1 text-white font-light tracking-wider bg-gray-900 rounded" type="submit">Login</button> -->
-                <a class="inline-block right-0 align-baseline  font-bold text-sm text-500 hover:text-blue-800" href="#">
+                <!-- <a class="inline-block right-0 align-baseline  font-bold text-sm text-500 hover:text-blue-800" href="#">
                     Forgot Password?
-                </a>
+                </a> -->
                 </div>
                 
             </form>

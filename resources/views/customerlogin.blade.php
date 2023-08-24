@@ -34,7 +34,7 @@
                             <a href="#" class="alert-link"></a>
                </div>
                         @csrf
-                <p class="text-gray-800 font-medium text-center text-lg font-bold">Cashier Login</p>
+                <p class="text-gray-800 font-medium text-center text-lg font-bold">Customer Login</p>
                 <div class="">
                 <label class="block text-sm text-gray-00" for="username">Email</label>
               

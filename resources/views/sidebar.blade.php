@@ -63,24 +63,24 @@
         <a href="#"
            class="font-sans font-hairline hover:font-normal text-sm text-nav-item no-underline">
             <i class="far fa-file float-left mx-2"></i>
-            Cashier
+            Customer
             <span><i class="fa fa-angle-down float-right"></i></span>
         </a>
         <ul class="list-reset -mx-2 bg-white-medium-dark">
             <li class="border-t mt-2 border-light-border w-full h-full px-2 py-3">
                 <a href="showCustomer"
                    class="mx-4 font-sans font-hairline hover:font-normal text-sm text-nav-item no-underline">
-                    Show Cashier
+                    Show Customer
                     <span><i class="fa fa-angle-right float-right"></i></span>
                 </a>
             </li>
-            <li class="border-t border-light-border w-full h-full px-2 py-3">
+            <!-- <li class="border-t border-light-border w-full h-full px-2 py-3">
                 <a href="register"
                    class="mx-4 font-sans font-hairline hover:font-normal text-sm text-nav-item no-underline">
-                    Add Cashier
+                    Add Customer
                     <span><i class="fa fa-angle-right float-right"></i></span>
                 </a>
-            </li>
+            </li> -->
         </ul>
     </li>
     <li class="w-full h-full py-3 px-2 border-b border-300-border">
